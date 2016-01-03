@@ -1,0 +1,25 @@
+TY  - JOUR
+T1  - Influence maximization of informed agents in social networks
+JO  - Applied Mathematics and Computation
+VL  - 254
+IS  - 0
+SP  - 229
+EP  - 239
+PY  - 2015/3/1/
+T2  - 
+AU  - AskariSichani, Omid
+AU  - Jalili, Mahdi
+SN  - 0096-3003
+DO  - http://dx.doi.org/10.1016/j.amc.2014.12.139
+UR  - http://www.sciencedirect.com/science/article/pii/S0096300314018001
+KW  - Complex networks
+KW  - Opinion formation
+KW  - Influence maximization
+KW  - Influential identification
+KW  - Informed agents
+KW  - Multi-agent social simulation
+AB  - Abstract
+Control of collective behavior is one of the most desirable goals in many applications related to social networks analysis and mining. In this work we propose a simple yet effective algorithm to control opinion formation in complex networks. We aim at finding the best spreaders whose connection to a reasonable number of informed agents results in the best performance. We consider an extended version of the bounded confidence model in which the uncertainty of each agent is adaptively controlled by the network. A number of informed agents with the desired opinion value is added to the network and create links with other agents such that large portion of the network follows their opinions. We propose to connect the informed agents to nodes with small in-degrees and high out-degree that are connected to high in-degree nodes. Our experimental results on both model and real social networks show superior performance of the proposed method over the state-of-the-art heuristic methods in the facet of opinion formation models.
+ER  - 
+
+
